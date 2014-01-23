@@ -1,0 +1,19 @@
+{
+  "name": "layutil",
+  "version": "0.0.1",
+  "private": true,
+  "keywords": [
+    "util"
+  ],
+  "author": {
+    "name": "li aiyong",
+    "email": "lay595715148@126.com"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "*"
+  },
+  "main": "index",
+  "_from": "layutil@0.0.1"
+}
